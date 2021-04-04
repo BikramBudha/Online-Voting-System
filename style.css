@@ -1,0 +1,77 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	resize:none;
+}
+
+.ul-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.ballot{
+	z-index: -1;
+}
+form{
+width : 100%;
+}
+.heading{
+	text-align:centre;
+}
+
+form div{
+	width: 50%;
+	height: 700px;
+	background-image: url("ballot.jpg");	
+	margin: 20px auto;
+	background-repeat: no-repeat;
+	padding: 4px;
+}
+
+.ChooseB{
+	margin-left: -2.5px;
+	margin-top: 3px;
+	height: 50px;
+	width: 90px;
+	color: transparent;
+	border: none;
+	background-color: transparent;
+}
+.ChooseC{
+	margin-left: -2.5px;
+	margin-top: 3px;
+	height: 50px;
+	width: 90px;
+	color: transparent;
+	border: none;
+	background-color: transparent;
+}
+
+.ChooseD{
+	margin-left: -2.5px;
+	margin-top: 3px;
+	height: 50px;
+	width: 90px;
+	color: transparent;
+	border: none;
+	background-color: transparent;
+}
+
+.ChooseA{
+	margin-left: -2.5px;
+	margin-top: 6px;
+	height: 50px;
+	width: 90px;
+	color: transparent;
+	border: none;
+	background-color: transparent;
+}
+.ChooseB:hover,.ChooseB:hover,.ChooseA:hover,.ChooseD:hover,.ChooseC:hover{
+	background-color:#f0e3ff;
+}
+
+	
+
+
